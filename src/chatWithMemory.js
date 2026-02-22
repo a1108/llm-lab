@@ -21,13 +21,10 @@ const BLOCKED_PHRASES = [
   // Memory/history related
   'erase', 'forget', 'delete', 'wipe',
   'remove', 'reset', 'purge', 'destroy',
-  'don\'t remember', 'do not remember',
-  'stop remembering', 'don\'t recall',
+  'remember', 'stop remembering', 'don\'t recall',
   'lose memory', 'start fresh',
   'start over', 'new conversation',
   'fresh start', 'remember',
-  'start fresh', 'start over', 
-  'new conversation', 'fresh start',
 
 
   // Instruction related
